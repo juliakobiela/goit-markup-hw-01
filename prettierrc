@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Default High Contrast",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.statusBar.visible": false,
+  "window.zoomLevel": 1,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.fontWeight": "normal"
+}
